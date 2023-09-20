@@ -1,5 +1,15 @@
-### Hi there 👋
+### 안녕하세요!👋
 
+전북대학교 4학년에 재학중인 황수아 입니다!😄
+
+[ 본전공 산업정보시스템공학과 ]
+[ 복수전공 통계학과 ]
+
+📫 Github | http://github.com/sua515
+📫 Blog   | 
+📫 Email  | sua4130@naver.com 
+📫 
+📫
 <!--
 **sua515/sua515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
