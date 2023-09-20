@@ -6,7 +6,7 @@
 
 [ 복수전공 통계학과 ]
 
-
+------------------------
 📫 Github | https://github.com/sua515
 
 
@@ -14,6 +14,10 @@
 
 
 📫 Email  | sua4130@gmail.com 
+
+-------------------------
+
+
 
 <!--
 **sua515/sua515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
