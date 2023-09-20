@@ -3,13 +3,15 @@
 전북대학교 4학년에 재학중인 황수아 입니다!😄
 
 [ 본전공 산업정보시스템공학과 ]
+
 [ 복수전공 통계학과 ]
 
-📫 Github | http://github.com/sua515
-📫 Blog   | 
-📫 Email  | sua4130@naver.com 
-📫 
-📫
+📫 Github | https://github.com/sua515
+
+📫 Blog   | https://blog.naver.com/qufquf8456
+
+📫 Email  | sua4130@gmail.com 
+
 <!--
 **sua515/sua515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
