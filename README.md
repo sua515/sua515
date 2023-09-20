@@ -6,9 +6,12 @@
 
 [ 복수전공 통계학과 ]
 
+
 📫 Github | https://github.com/sua515
 
+
 📫 Blog   | https://blog.naver.com/qufquf8456
+
 
 📫 Email  | sua4130@gmail.com 
 
